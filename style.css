@@ -11,7 +11,7 @@
   width: 100%;
   /*linear-gradient(rgba(218, 241, 155, 0.8), rgb(247, 244, 244)),*/
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgb(247, 244, 244)),
-   url(/images/background2.png) center repeat;
+   url(/public/images/background2.png) center repeat;
   padding-top: 2%;
   padding-bottom: 2%;
 }
@@ -19,7 +19,7 @@
 div {
     text-indent: 50px;
     background: linear-gradient(rgba(143, 142, 142, 0.8), rgb(247, 244, 244)),
-    url(/images/background2.png) center repeat;
+    url(/public/images/background2.png) center repeat;
   }
 
 h1 {
@@ -47,8 +47,8 @@ h3 {
   text-indent: 100px;
 }
 .img a {
-    height: 100%;
-    width: 30%;
+    height: 10%;
+    width: 10%;
     align-items: center;
    }
 
